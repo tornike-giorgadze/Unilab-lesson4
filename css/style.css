@@ -1,0 +1,66 @@
+.container{
+	width: 1238px;
+	height: 959px;
+	display: inline-block;
+}
+.box1{
+	width: 929px;
+	height: 360px;
+	margin: 21px auto auto 39px;
+}
+.georgian-paragraph{
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	margin: 49.5px auto auto 43px;
+	font-size: 20px;
+}
+.image1{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 17.5px auto auto 43px;
+
+}
+.text1{
+	font-family: "BPG Ingiri Arial", sans-serif;
+	position: absolute;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 21px auto auto 39px;
+	font-size: 16px;
+}
+.text2{
+	position: absolute;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 130px auto auto 39px;
+	font-family: "BPG Ingiri Arial";
+}
+.box2{
+	width: 929px;
+	height: 360px;
+	margin-left: 39px;
+}
+.english-paragraph{
+	font-family: "BPG Nino Mtavruli", sans-serif;
+	margin: 144px auto auto 43px;
+	font-size: 20px;
+}
+.image2{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 17.5px auto auto 43px;
+}
+.text3{
+	font-family: "BPG Ingiri Arial", sans-serif;
+	position: absolute;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 21px auto auto 39px;
+	font-size: 16px;
+}
+.text4{
+	position: absolute;
+	display: inline-block;
+	vertical-align: middle;
+	margin: 150px auto auto 39px;
+	 font-family: "Stint Ultra Condensed";
+}
